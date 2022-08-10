@@ -38,5 +38,5 @@ Discord: https://discord.gg/ZVJEkjUTkx
 - Blacklist / Limit Components & Props to certain Jobs / Gangs / ACEs (Allows you to have VIP clothing on your Server)
 - Blacklist / Limit Peds to certain Jobs / Gangs / ACEs
 - Persist Job / Gang Clothes on reconnects / logout
-- Themes Support (Default & QBCore provided out of the box)
+- Themes Support (Default, QBCore & Project Sloth provided out of the box)
 - Disable Components / Props Entirely (Clothing as items support)

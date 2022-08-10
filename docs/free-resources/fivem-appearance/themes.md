@@ -2,11 +2,11 @@
 title: Theme Configuration
 ---
 
-fivem-appearance comes with 2 themes, `default` and `qb-core` and `qb-core` is set as the default one.
+fivem-appearance comes with 3 themes, `default`, `qb-core`, and `project-sloth` and `qb-core` is set as the default one.
 
 ### Switch between themes
 
-Change `currentTheme` to the theme `id`. You can choose between `qb-core` and `default`.
+Change `currentTheme` to the theme `id`. You can choose between `qb-core`, `default`, and `project-sloth`.
 
 ### Creating custom themes
 
