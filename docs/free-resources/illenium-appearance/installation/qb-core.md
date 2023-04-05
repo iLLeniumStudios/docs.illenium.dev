@@ -24,8 +24,8 @@ title: "qb-core Installation"
 - Add `setr illenium-appearance:locale "en"` in your server.cfg
 - Put `ensure illenium-appearance` right after `ensure ox_lib` in your server.cfg. At the end, the ensured resources should look like this
 ```haproxy
-ensure qb-core
 ensure ox_lib
+ensure qb-core
 ensure illenium-appearance
 ```
 - Delete the table `player_outfits` and `playerskins` table (if you don't want to migrate) from your database
