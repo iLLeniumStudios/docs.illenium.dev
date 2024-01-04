@@ -41,8 +41,8 @@ title: "ESX Installation"
 
 - Put `ensure illenium-appearance` right after `ensure ox_lib` in your server.cfg. At the end, the ensured resources should look like this
 ```lua
-ensure  es_extended
 ensure  ox_lib
+ensure  es_extended
 ensure  illenium-appearance
 ```
 - Delete the table `player_outfits` and `playerskins` table (if you don't want to migrate) from your database
